@@ -1,0 +1,32 @@
+
+
+form {
+    background-color: #9297d7;
+    display: grid;
+    justify-content: center;
+    width: 100%;
+}
+
+.inputboxi {
+    margin-bottom: 15px;
+    height: 100%;
+    width: 100%;
+}
+
+.field {
+    justify-content: center;
+    font-size: 30px;
+    height: 9px;
+}
+input[type="submit"] {
+    margin-top: 67px;
+}
+input[type="text"] {
+    width: 100%;
+}
+
+
+.\31 {
+    border-radius: 11px;
+    background-color: #906c38;
+}
